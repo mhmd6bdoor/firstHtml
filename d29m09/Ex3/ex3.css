@@ -1,12 +1,11 @@
-.mars {
-}
+.mars {}
 
 fieldset {
   border: 2px solid black;
   background-color: rgb(255, 255, 220);
 
   margin: auto;
-  width: 40%;
+  width: 25%;
 }
 
 .txt {
