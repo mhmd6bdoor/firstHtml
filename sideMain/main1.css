@@ -16,6 +16,15 @@ a {
   display: block;
   padding: 8px;
   background-color: #b9b1ff;
+
+}
+
+a:hover {
+
+  color: rgb(42, 159, 255);
+  background-color: brown;
+
+
 }
 
 .one {
@@ -38,7 +47,7 @@ a {
 
 .epage {
   font-size: 18px;
-  background-color: rgb(111, 113, 138);
+  background-color: rgb(151, 155, 212);
   border: 3px solid rgba(255, 217, 217, 0.8);
   border-top: 15px solid rgba(255, 217, 217, 0.8);
 
@@ -57,5 +66,5 @@ a {
 }
 
 body {
-  background-color: rgb(129, 129, 129);
+  background-color: rgb(122, 122, 122);
 }
