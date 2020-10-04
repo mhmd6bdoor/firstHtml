@@ -1,0 +1,41 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+
+}
+
+main {
+    display: flex;
+    height: 99vh;
+    width: 99vw;
+    text-align: center;
+
+
+
+}
+
+.text {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.box2 {
+    width: 50%;
+    background-color: orange;
+
+}
+
+
+
+.box4 {
+    width: 50%;
+    background-color: blue;
+
+}
