@@ -13,17 +13,6 @@ main {
     width: 99vw;
     text-align: center;
 
-
-
-}
-
-.text {
-    text-align: center;
-}
-
-h1 {
-    text-align: center;
-
 }
 
 .box2 {
@@ -38,4 +27,9 @@ h1 {
     width: 50%;
     background-color: blue;
 
+}
+
+h1 {
+    margin-top: 50vh;
+    font-size: 7vh;
 }
